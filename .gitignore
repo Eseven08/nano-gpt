@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+checkpoints/
+.grad_out.txt
+_g*.txt
